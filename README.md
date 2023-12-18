@@ -16,7 +16,7 @@
 
 # Courses Taken
 
-## Computer Science
+## Computer Science (GPA: 4.0)
 
 [CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500) (3) A
 
@@ -50,7 +50,7 @@
 [CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java] (3)
 
 
-## Mathematics/Statistics
+## Mathematics/Statistics (GPA: 4.0)
 
 [MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python] (3) A
 
@@ -69,7 +69,7 @@
 [BUSSTAT207 - Introduction to Business Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/ByZBjyLUc8?bcCurrent=BUSSTAT207) (3) A+
 
 
-## Information Technology Management
+## Information Technology Management (GPA: 3.9)
 
 [ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557) {registered Spring 2024}
 
@@ -102,7 +102,7 @@
 [ITM105 - Spreadsheet Topics](https://www.boisestate.edu/registrar-catalog/#/courses/BJZj1UL5L?bcCurrent=ITM105) (1) P
 
 
-## Accounting
+## Accounting (GPA: 3.9)
 
 [ACCT410 - Advanced Accounting](https://www.boisestate.edu/registrar-catalog/#/courses/Ske3wk8U5I?bcCurrent=ACCT410) (3) A
 
@@ -119,7 +119,7 @@
 [ACCT302 - Survey of Federal Income Taxation](https://www.boisestate.edu/registrar-catalog/#/courses/Hyb3DyIUqU?bcCurrent=ACCT302) (3) A+
 
 
-## Business Related
+## Business Related (GPA: 4.0)
 
 [BUS450 - Business Policies](https://www.boisestate.edu/registrar-catalog/#/courses/HkgisJULcI?bcCurrent=BUS450) (3) A+
 
