@@ -42,7 +42,7 @@
 [CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111) [Python] (3) A
 
 
-###### (Courses currently registered for Spring 2024)
+###### (CS Courses currently registered for Spring 2024)
 
 [CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [Java Script, HTML, CSS, SQL etc.] (3) 
 
