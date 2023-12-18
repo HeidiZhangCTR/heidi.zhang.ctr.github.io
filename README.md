@@ -34,6 +34,8 @@ BBA Accountancy
 
 [CS208 - Introduction to Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?&bcCurrent=CS208) (3)
 
+[CS155 - Introduction to Version Control](https://www.boisestate.edu/registrar-catalog/#/courses/HkWNqXI89U?bcCurrent=CS155)
+
 [CS153 - Navigating Computer Systems](https://www.boisestate.edu/registrar-catalog/#/courses/rkVqQ8U5L?bcCurrent=CS153)
 
 [CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111) (3) 
