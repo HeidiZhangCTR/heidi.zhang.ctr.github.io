@@ -17,7 +17,7 @@
 
 # Courses Taken
 
-## Computer Science  (GPA: 4.0)
+## Computer Science (GPA: 4.0)
 
 [CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500) (3) A
 
@@ -42,7 +42,7 @@
 [CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111) [Python] (3) A
 
 
-##### Courses currently registered for Spring 2024.
+##### (Courses currently registered for Spring 2024)
 
 [CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [Java Script, HTML, CSS, SQL etc.] (3) 
 
@@ -51,7 +51,7 @@
 [CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java] (3)
 
 
-## Mathematics/Statistics   (GPA: 4.0)
+## Mathematics/Statistics (GPA: 4.0)
 
 [MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python] (3) A
 
@@ -70,7 +70,7 @@
 [BUSSTAT207 - Introduction to Business Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/ByZBjyLUc8?bcCurrent=BUSSTAT207) (3) A+
 
 
-## Information Technology Management   (GPA: 3.97)
+## Information Technology Management (GPA: 3.97)
 
 [ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557) {registered Spring 2024}
 
@@ -103,7 +103,7 @@
 [ITM105 - Spreadsheet Topics](https://www.boisestate.edu/registrar-catalog/#/courses/BJZj1UL5L?bcCurrent=ITM105) (1) P
 
 
-## Accounting   (GPA: 3.95)
+## Accounting (GPA: 3.95)
 
 [ACCT410 - Advanced Accounting](https://www.boisestate.edu/registrar-catalog/#/courses/Ske3wk8U5I?bcCurrent=ACCT410) (3) A
 
@@ -120,7 +120,7 @@
 [ACCT302 - Survey of Federal Income Taxation](https://www.boisestate.edu/registrar-catalog/#/courses/Hyb3DyIUqU?bcCurrent=ACCT302) (3) A+
 
 
-## Business Related   (GPA: 4.0)
+## Business Related (GPA: 4.0)
 
 [BUS450 - Business Policies](https://www.boisestate.edu/registrar-catalog/#/courses/HkgisJULcI?bcCurrent=BUS450) (3) A+
 
