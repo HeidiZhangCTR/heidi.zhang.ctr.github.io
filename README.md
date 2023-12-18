@@ -34,9 +34,9 @@ BBA Accountancy
 
 [CS208 - Introduction to Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?&bcCurrent=CS208) [Java Script, HTML, CSS, SQL etc.] (3) A
 
-[CS155 - Introduction to Version Control](https://www.boisestate.edu/registrar-catalog/#/courses/HkWNqXI89U?bcCurrent=CS155) A
+[CS155 - Introduction to Version Control](https://www.boisestate.edu/registrar-catalog/#/courses/HkWNqXI89U?bcCurrent=CS155) (1) A
 
-[CS153 - Navigating Computer Systems](https://www.boisestate.edu/registrar-catalog/#/courses/rkVqQ8U5L?bcCurrent=CS153) [Bash] A+
+[CS153 - Navigating Computer Systems](https://www.boisestate.edu/registrar-catalog/#/courses/rkVqQ8U5L?bcCurrent=CS153) [Bash] (1) A+
 
 [CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111) [Python] (3) A
 
@@ -58,9 +58,9 @@ BBA Accountancy
 
 [MATH265 - Introduction to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265) [MathLab, Python] (3) A
 
-[MATH189 - Discrete Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/Skgqe78L5I?bcCurrent=MATH189) (3) A
+[MATH189 - Discrete Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/Skgqe78L5I?bcCurrent=MATH189) (4) A
 
-[MATH160 - Survey of Calculus](https://www.boisestate.edu/registrar-catalog/#/courses/SyYGeUU98?bcCurrent=MATH160) (3) A+
+[MATH160 - Survey of Calculus](https://www.boisestate.edu/registrar-catalog/#/courses/SyYGeUU98?bcCurrent=MATH160) (4) A+
 
 [MATH149 - Precalculus](https://www.boisestate.edu/registrar-catalog/#/courses/HyIR7L8c8?bcCurrent=MATH149) (3) A+
 
