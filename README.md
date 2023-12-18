@@ -9,7 +9,7 @@ Minor Cybersecurity
 
 Minor Computer Science
 
-BBA Accountancy
+[BBA Accountancy](https://www.boisestate.edu/cobe-accountancy/programs/accountancy-degrees/)
 
 [Business Analytics Certificate](https://www.boisestate.edu/cobe-itscm/certificate-in-business-analytics/)
 
