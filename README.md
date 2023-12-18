@@ -14,7 +14,7 @@ BBA Accountancy
 [Business Analytics Certificate](https://www.boisestate.edu/cobe-itscm/certificate-in-business-analytics/)
 
 
-# Classes Taken
+# Courses Taken
 
 ## Computer Science
 
