@@ -5,9 +5,9 @@
 
 [BBA Information Technology Management](https://www.boisestate.edu/cobe-itscm/it-management/)
 
-Minor Cybersecurity
+[Minor Cybersecurity](https://www.boisestate.edu/registrar-catalog/#/programs/Hye4XH_4n8)
 
-Minor Computer Science
+[Minor Computer Science](https://www.boisestate.edu/registrar-catalog/#/programs/Hkem7S_VnI)
 
 [BBA Accountancy](https://www.boisestate.edu/cobe-accountancy/programs/accountancy-degrees/)
 
