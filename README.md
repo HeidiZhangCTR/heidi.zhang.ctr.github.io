@@ -135,3 +135,8 @@
 [ECON202 - Principles of Microeconomics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gh1L8qU?&bcCurrent=ECON202) (3) A
 
 [ECON201 - Principles of Macroeconomics](https://www.boisestate.edu/registrar-catalog/#/courses/BJlhy88cI?bcCurrent=ECON201) (3) A
+
+
+## Other Information
+
+[LinkedIn](www.linkedin.com/in/heidi-zhang-ctr) 
