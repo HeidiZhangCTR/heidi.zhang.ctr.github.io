@@ -69,7 +69,7 @@
 [BUSSTAT207 - Introduction to Business Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/ByZBjyLUc8?bcCurrent=BUSSTAT207) (3) A+
 
 
-## Information Technology Management   (GPA: 3.9)
+## Information Technology Management   (GPA: 3.97)
 
 [ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557) {registered Spring 2024}
 
