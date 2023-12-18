@@ -3,7 +3,7 @@
 
 [Cybersecurity Management Graduate Certficate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
 
-BBA Information Technology Management
+[BBA Information Technology Management](https://www.boisestate.edu/cobe-itscm/it-management/)
 
 Minor Cybersecurity
 
