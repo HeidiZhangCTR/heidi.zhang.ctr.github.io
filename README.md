@@ -139,4 +139,4 @@
 
 ## Other Information
 
-[LinkedIn](https://www.linkedin.com/in/heidi-zhang-ctr) 
+[LinkedIn](https://www.linkedin.com/in/heidi-zhang-ctr)
