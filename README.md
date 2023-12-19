@@ -85,7 +85,7 @@
 
 [ITM340 - Big Data and Web Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BybIVLI5L?&bcCurrent=ITM340) [R] (3) A+
 
-[ITM325 - Web Application Development I](https://www.boisestate.edu/registrar-catalog/#/courses/Sy4oW8I5U?bcCurrent=ITM325) [JS, HTML, CSS, SQL etc.] (3) A
+[ITM325 - Web Application Development](https://www.boisestate.edu/registrar-catalog/#/courses/Sy4oW8I5U?bcCurrent=ITM325) [JS, HTML, CSS, SQL etc.] (3) A
 
 [ITM320 - Systems Planning and Analysis](https://www.boisestate.edu/registrar-catalog/#/courses/HJrjy8U5I?bcCurrent=ITM320) [C#] (3) A+
 
