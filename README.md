@@ -56,7 +56,7 @@
 
 [MATH307 - Fundamentals of Security and Cryptography](https://www.boisestate.edu/registrar-catalog/#/courses/HkleaWLUqI?bcCurrent=MATH307) [Java] (3) A
 
-[MATH265 - Introduction to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265) [MathLab, Python] (3) A
+[MATH265 - Intro to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265) [MathLab, Python] (3) A
 
 [MATH189 - Discrete Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/Skgqe78L5I?bcCurrent=MATH189) (4) A
 
