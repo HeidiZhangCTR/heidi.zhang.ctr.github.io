@@ -33,7 +33,7 @@
 
 [CS221 - Computer Science II](https://www.boisestate.edu/registrar-catalog/#/courses/SygWSzII98?bcCurrent=CS221) [Java] (3) A
 
-[CS208 - Introduction to Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?&bcCurrent=CS208) [JS, HTML, CSS, SQL etc.] (3) A
+[CS208 - Intro to Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?&bcCurrent=CS208) [JS, HTML, CSS, SQL etc.] (3) A
 
 [CS155 - Introduction to Version Control](https://www.boisestate.edu/registrar-catalog/#/courses/HkWNqXI89U?bcCurrent=CS155) (1) A
 
