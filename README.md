@@ -1,6 +1,6 @@
 # Degrees (Majors, Minors) and Certificates
 ## Overall GPA: 3.99
-##### [To be completed by Spring 2024]
+[To be completed by Spring 2024]
 
 [Cybersecurity Management Graduate Certficate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
 
