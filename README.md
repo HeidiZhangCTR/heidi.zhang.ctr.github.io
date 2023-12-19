@@ -33,7 +33,7 @@
 
 [CS221 - Computer Science II](https://www.boisestate.edu/registrar-catalog/#/courses/SygWSzII98?bcCurrent=CS221) [Java] (3) A
 
-[CS208 - Introduction to Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?&bcCurrent=CS208) [Java Script, HTML, CSS, SQL etc.] (3) A
+[CS208 - Introduction to Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?&bcCurrent=CS208) [JS, HTML, CSS, SQL etc.] (3) A
 
 [CS155 - Introduction to Version Control](https://www.boisestate.edu/registrar-catalog/#/courses/HkWNqXI89U?bcCurrent=CS155) (1) A
 
@@ -44,7 +44,7 @@
 
 ###### (CS courses currently registered for Spring 2024)
 
-[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [Java Script, HTML, CSS, SQL etc.] (3) 
+[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [JS, HTML, CSS, SQL etc.] (3) 
 
 [CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452) [C] (3)
 
@@ -86,7 +86,7 @@
 
 [ITM340 - Big Data and Web Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BybIVLI5L?&bcCurrent=ITM340) [R] (3) A+
 
-[ITM325 - Web Application Development I](https://www.boisestate.edu/registrar-catalog/#/courses/Sy4oW8I5U?bcCurrent=ITM325) [Java Script, HTML, CSS, SQL etc.] (3) A
+[ITM325 - Web Application Development I](https://www.boisestate.edu/registrar-catalog/#/courses/Sy4oW8I5U?bcCurrent=ITM325) [JS, HTML, CSS, SQL etc.] (3) A
 
 [ITM320 - Systems Planning and Analysis](https://www.boisestate.edu/registrar-catalog/#/courses/HJrjy8U5I?bcCurrent=ITM320) [C#] (3) A+
 
