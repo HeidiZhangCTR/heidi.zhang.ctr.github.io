@@ -27,7 +27,7 @@
 
 [CS331 - Computer Security and Information Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331) [Python] (3) A
 
-[CS321 - Data Structures](https://www.boisestate.edu/registrar-catalog/#/courses/SJ0xQ8I98?bcCurrent=CS321) [Java] (3)
+[CS321 - Data Structures](https://www.boisestate.edu/registrar-catalog/#/courses/SJ0xQ8I98?bcCurrent=CS321) [Java] (3) A+
 
 [CS253 - Software Development in C](https://www.boisestate.edu/registrar-catalog/#/courses/r1NfG8IcU?bcCurrent=CS253) [C] (3) A+
 
