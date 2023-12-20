@@ -140,4 +140,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/heidi-zhang-ctr)
 
-[My Church](https://www.churchofjesuschrist.org/?lang=eng)
+[The Source of My Success](https://www.churchofjesuschrist.org/?lang=eng)
