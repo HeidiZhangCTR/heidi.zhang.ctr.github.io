@@ -139,4 +139,5 @@
 ## Other Information
 
 [LinkedIn](https://www.linkedin.com/in/heidi-zhang-ctr)
+
 [My Church](https://www.churchofjesuschrist.org/?lang=eng)
