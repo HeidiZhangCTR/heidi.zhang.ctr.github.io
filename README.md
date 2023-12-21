@@ -79,8 +79,6 @@
 
 [ITM455 - Information Security](https://www.boisestate.edu/registrar-catalog/#/courses/HJuobL89L?bcCurrent=ITM455) (3) A+
 
-[ITM435 - Project Management](https://www.boisestate.edu/registrar-catalog/#/courses/H1llp-889U?&bcCurrent=SCM435) (3) A+
-
 [ITM430 - Predictive Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BJeUsX8LqU?bcCurrent=ITM430) [R] (3) A
 
 [ITM340 - Big Data and Web Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BybIVLI5L?&bcCurrent=ITM340) [R] (3) A+
@@ -126,6 +124,8 @@
 [BUS305 - Law for Accountants](https://www.boisestate.edu/registrar-catalog/#/courses/BJsiyUUc8?bcCurrent=BUS305) (3) A
  
 [BUS202 - The Legal Environment of Business](https://www.boisestate.edu/registrar-catalog/#/courses/SksikLUcI?bcCurrent=BUS202) (3) A+
+
+[SCM435 - Project Management](https://www.boisestate.edu/registrar-catalog/#/courses/H1llp-889U?&bcCurrent=SCM435) (3) A+
 
 [FINAN303 - Principles of Finance](https://www.boisestate.edu/registrar-catalog/#/courses/SkeQayIU9L?bcCurrent=FINAN303) (3) A+
 
