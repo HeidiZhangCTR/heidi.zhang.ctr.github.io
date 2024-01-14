@@ -2,7 +2,7 @@
 ## Overall GPA: 3.99
 [To be completed by Spring 2024]
 
-[Cybersecurity Management Graduate Certficate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
+[Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
 
 [BBA Information Technology Management](https://www.boisestate.edu/cobe-itscm/it-management/)
 
@@ -43,7 +43,7 @@
 
 [CS courses currently registered for Spring 2024]
 
-[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [JS, HTML, CSS, SQL etc.] (3) 
+[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [JS, HTML, CSS,  PHP, SQL etc.] (3) 
 
 [CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452) [C] (3)
 
