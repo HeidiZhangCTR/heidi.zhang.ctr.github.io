@@ -23,9 +23,9 @@
 
 [CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425) (3) A
 
-[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333) (3) A
+**[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333) (3) A**
 
-[CS331 - Computer Security and Information Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331) [Python] (3) A
+**[CS331 - Computer Security and Information Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331) [Python] (3) A**
 
 [CS321 - Data Structures](https://www.boisestate.edu/registrar-catalog/#/courses/SJ0xQ8I98?bcCurrent=CS321) [Java] (3) A+
 
@@ -43,7 +43,7 @@
 
 [CS courses currently registered for Spring 2024]
 
-[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [JS, HTML, CSS,  PHP, SQL etc.] (3) 
+[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, AJAX etc.] (3) A
 
 [CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452) [C] (3)
 
@@ -52,9 +52,9 @@
 
 ## Mathematics/Statistics (GPA: 4.0)
 
-[MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python] (3) A
+**[MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python] (3) A**
 
-[MATH307 - Fundamentals of Security and Cryptography](https://www.boisestate.edu/registrar-catalog/#/courses/HkleaWLUqI?bcCurrent=MATH307) [Java] (3) A
+**[MATH307 - Fundamentals of Security and Cryptography](https://www.boisestate.edu/registrar-catalog/#/courses/HkleaWLUqI?bcCurrent=MATH307) [Java] (3) A**
 
 [MATH265 - Intro to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265) [MathLab, Python] (3) A
 
@@ -71,13 +71,13 @@
 
 ## Information Technology Management (GPA: 3.97)
 
-[ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557) {registered Spring 2024}
+**[ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557) {registered Spring 2024}**
 
-[ITM556 - Information Security Management](https://www.boisestate.edu/graduatecatalog/#/courses/rypJhGYUw?bcCurrent=ITM556) (3) A
+**[ITM556 - Information Security Management](https://www.boisestate.edu/graduatecatalog/#/courses/rypJhGYUw?bcCurrent=ITM556) (3) A**
 
 [ITM460 - Cloud Computing](https://www.boisestate.edu/registrar-catalog/#/courses/rk8UN8I98?bcCurrent=ITM460) [Python] (3) A
 
-[ITM455 - Information Security](https://www.boisestate.edu/registrar-catalog/#/courses/HJuobL89L?bcCurrent=ITM455) (3) A+
+**[ITM455 - Information Security](https://www.boisestate.edu/registrar-catalog/#/courses/HJuobL89L?bcCurrent=ITM455) (3) A+**
 
 [ITM430 - Predictive Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BJeUsX8LqU?bcCurrent=ITM430) [R] (3) A
 
