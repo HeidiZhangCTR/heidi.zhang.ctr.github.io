@@ -24,7 +24,7 @@
 
 **[CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500) (3) A**
 
-[CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java] (3) A+
+[CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java, Redis, Kafka, ZooKeeper] (3) A+
 
 [CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452) [C] (3) W
 
