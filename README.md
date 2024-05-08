@@ -4,18 +4,22 @@
 - **GPA for undergraduate-level courses (127 credits): 3.99**
 - **GPA for graduate-level courses (9 credits): 4.0**
 
+Boise State University
 
-[Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
+- [Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
 
-[BBA Information Technology Management](https://www.boisestate.edu/cobe-itscm/it-management/)
+- [BBA Information Technology Management](https://www.boisestate.edu/cobe-itscm/it-management/)
 
-[Minor Cybersecurity](https://www.boisestate.edu/registrar-catalog/#/programs/Hye4XH_4n8)
+- [Minor Cybersecurity](https://www.boisestate.edu/registrar-catalog/#/programs/Hye4XH_4n8)
 
-[Minor Computer Science](https://www.boisestate.edu/registrar-catalog/#/programs/Hkem7S_VnI)
+- [Minor Computer Science](https://www.boisestate.edu/registrar-catalog/#/programs/Hkem7S_VnI)
 
-[BBA Accountancy](https://www.boisestate.edu/cobe-accountancy/programs/accountancy-degrees/)
+- [BBA Accountancy](https://www.boisestate.edu/cobe-accountancy/programs/accountancy-degrees/)
 
-[Business Analytics Certificate](https://www.boisestate.edu/cobe-itscm/certificate-in-business-analytics/)
+- [Business Analytics Certificate](https://www.boisestate.edu/cobe-itscm/certificate-in-business-analytics/)
+
+[Tianjin Foreign Studies University](https://www.tjfsu.edu.cn/)
+- BA International Business
 
 
 # Courses Taken
@@ -70,7 +74,7 @@
 [BUSSTAT207 - Introduction to Business Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/ByZBjyLUc8?bcCurrent=BUSSTAT207) (3) A+
 
 
-## Information Technology Management (GPA: 3.97)
+## Information Technology Management (GPA: 3.98)
 
 **[ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557) A**
 
