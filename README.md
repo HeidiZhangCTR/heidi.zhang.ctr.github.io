@@ -1,7 +1,7 @@
 # Degrees (Majors, Minors) and Certificates
 ## Overall GPA: 3.99
-[GPA for graduate-level courses (9 credits): 4.0]
-[GPA for undergraduate-level courses (127 credits): 3.99]
+- GPA for graduate-level courses (9 credits): 4.0
+- GPA for undergraduate-level courses (127 credits): 3.99
 
 [Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
 
@@ -20,7 +20,7 @@
 
 ## Computer Science (GPA: 4.0)
 
-[CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500) (3) A
+**[CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500) (3) A**
 
 [CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java] (3) A+
 
@@ -28,7 +28,7 @@
 
 [CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425) (3) A
 
-[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, AJAX etc.] (3) A
+[CS408 - Full Stack Web Dev](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, AJAX etc.] (3) A
 
 **[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333) (3) A**
 
@@ -51,9 +51,9 @@
 
 ## Mathematics/Statistics (GPA: 4.0)
 
-**[MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python] (3) A**
+[MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python] (3) A
 
-**[MATH307 - Fundamentals of Security and Cryptography](https://www.boisestate.edu/registrar-catalog/#/courses/HkleaWLUqI?bcCurrent=MATH307) [Java] (3) A**
+[MATH307 - Fundamentals of Security and Cryptography](https://www.boisestate.edu/registrar-catalog/#/courses/HkleaWLUqI?bcCurrent=MATH307) [Java] (3) A
 
 [MATH265 - Intro to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265) [MathLab, Python] (3) A
 
@@ -70,7 +70,7 @@
 
 ## Information Technology Management (GPA: 3.97)
 
-**[ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557) {registered Spring 2024}**
+**[ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557) A**
 
 **[ITM556 - Information Security Management](https://www.boisestate.edu/graduatecatalog/#/courses/rypJhGYUw?bcCurrent=ITM556) (3) A**
 
