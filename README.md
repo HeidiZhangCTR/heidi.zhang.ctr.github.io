@@ -4,7 +4,7 @@
 - **GPA for undergraduate-level courses (127 credits): 3.99**
 - **GPA for graduate-level courses (9 credits): 4.0**
 
-Boise State University
+[Boise State University](https://www.boisestate.edu/)
 
 - [Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
 
@@ -19,7 +19,7 @@ Boise State University
 - [Business Analytics Certificate](https://www.boisestate.edu/cobe-itscm/certificate-in-business-analytics/)
 
 [Tianjin Foreign Studies University](https://www.tjfsu.edu.cn/)
-- BA International Business
+- [BA International Business](https://english.tjfsu.edu.cn/xygk/English.htm)
 
 
 # Courses Taken
