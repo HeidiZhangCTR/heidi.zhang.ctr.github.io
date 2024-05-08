@@ -1,6 +1,7 @@
 # Degrees (Majors, Minors) and Certificates
 ## Overall GPA: 3.99
-[To be completed by Spring 2024]
+[GPA for graduate-level courses (9 credits): 4.0]
+[GPA for undergraduate-level courses (127 credits): 3.99]
 
 [Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
 
@@ -21,7 +22,13 @@
 
 [CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500) (3) A
 
+[CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java] (3) A+
+
+[CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452) [C] (3)
+
 [CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425) (3) A
+
+[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, AJAX etc.] (3) A
 
 **[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333) (3) A**
 
@@ -40,14 +47,6 @@
 [CS153 - Navigating Computer Systems](https://www.boisestate.edu/registrar-catalog/#/courses/rkVqQ8U5L?bcCurrent=CS153) [Bash] (1) A+
 
 [CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111) [Python] (3) A
-
-[CS courses currently registered for Spring 2024]
-
-[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, AJAX etc.] (3) A
-
-[CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452) [C] (3)
-
-[CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java] (3)
 
 
 ## Mathematics/Statistics (GPA: 4.0)
@@ -129,7 +128,7 @@
 
 [FINAN303 - Principles of Finance](https://www.boisestate.edu/registrar-catalog/#/courses/SkeQayIU9L?bcCurrent=FINAN303) (3) A+
 
-[ECON317 - International Economics](https://www.boisestate.edu/registrar-catalog/#/courses/B1-lnJLI5I?&bcCurrent=ECON317) {registered Spring 2024}
+[ECON317 - International Economics](https://www.boisestate.edu/registrar-catalog/#/courses/B1-lnJLI5I?&bcCurrent=ECON317) (3) A
 
 [ECON202 - Principles of Microeconomics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gh1L8qU?&bcCurrent=ECON202) (3) A
 
