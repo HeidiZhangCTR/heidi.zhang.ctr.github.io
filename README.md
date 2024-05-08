@@ -1,7 +1,9 @@
 # Degrees (Majors, Minors) and Certificates
-## Overall GPA: 3.99
-- GPA for graduate-level courses (9 credits): 4.0
-- GPA for undergraduate-level courses (127 credits): 3.99
+
+## Overall GPA: 3.99/4.0
+- **GPA for undergraduate-level courses (127 credits)**: 3.99
+- **GPA for graduate-level courses (9 credits)**: 4.0
+
 
 [Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
 
@@ -24,11 +26,11 @@
 
 [CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java] (3) A+
 
-[CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452) [C] (3)
+[CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452) [C] (3) Withdrew to avoid the possibility of a B+
 
 [CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425) (3) A
 
-[CS408 - Full Stack Web Dev](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, AJAX etc.] (3) A
+[CS408 - Full Stack Web Dev](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, AJAX] (3) A
 
 **[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333) (3) A**
 
@@ -40,7 +42,7 @@
 
 [CS221 - Computer Science II](https://www.boisestate.edu/registrar-catalog/#/courses/SygWSzII98?bcCurrent=CS221) [Java] (3) A
 
-[CS208 - Intro to Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?&bcCurrent=CS208) [JS, HTML, CSS, SQL etc.] (3) A
+[CS208 - Intro to Full Stack Web Dev](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?&bcCurrent=CS208) [JS, HTML, CSS, SQL etc.] (3) A
 
 [CS155 - Introduction to Version Control](https://www.boisestate.edu/registrar-catalog/#/courses/HkWNqXI89U?bcCurrent=CS155) (1) A
 
