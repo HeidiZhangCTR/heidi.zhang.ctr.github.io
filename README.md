@@ -34,7 +34,7 @@
 
 **[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333) (3) A**
 
-**[CS331 - Computer Security & Information Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331) [Python] (3) A**
+**[CS331 - Computer Security and Info Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331) [Python] (3) A**
 
 [CS321 - Data Structures](https://www.boisestate.edu/registrar-catalog/#/courses/SJ0xQ8I98?bcCurrent=CS321) [Java] (3) A+
 
