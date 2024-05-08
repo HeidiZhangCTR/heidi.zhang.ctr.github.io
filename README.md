@@ -28,17 +28,17 @@
 
 **[CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500) (3) A**
 
-[CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java, Redis, Docker, Kafka, ZooKeeper] (3) A+
+[CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455) [Java, Redis, Docker, VMware, Kafka, ZooKeeper] (3) A+
 
 [CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452) [C] (3) W
 
-[CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425) (3) A
+[CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425) [Wireshark, VMware] (3) A
 
 [CS408 - Full Stack Web Dev](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, ajax] (3) A
 
 **[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333) (3) A**
 
-**[CS331 - Computer Security and Info Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331) [Python] (3) A**
+**[CS331 - Computer Security and Info Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331) [Python, Wireshark, VirtualBox] (3) A**
 
 [CS321 - Data Structures](https://www.boisestate.edu/registrar-catalog/#/courses/SJ0xQ8I98?bcCurrent=CS321) [Java] (3) A+
 
@@ -50,7 +50,7 @@
 
 [CS155 - Introduction to Version Control](https://www.boisestate.edu/registrar-catalog/#/courses/HkWNqXI89U?bcCurrent=CS155) [git, GitHub] (1) A 
 
-[CS153 - Navigating Computer Systems](https://www.boisestate.edu/registrar-catalog/#/courses/rkVqQ8U5L?bcCurrent=CS153) [Bash] (1) A+
+[CS153 - Navigating Computer Systems](https://www.boisestate.edu/registrar-catalog/#/courses/rkVqQ8U5L?bcCurrent=CS153) [Bash, VMware, VirtualBox] (1) A+
 
 [CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111) [Python] (3) A
 
@@ -84,7 +84,7 @@
 
 **[ITM455 - Information Security](https://www.boisestate.edu/registrar-catalog/#/courses/HJuobL89L?bcCurrent=ITM455) (3) A+**
 
-[ITM430 - Predictive Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BJeUsX8LqU?bcCurrent=ITM430) [R, Modeler] (3) A
+[ITM430 - Predictive Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BJeUsX8LqU?bcCurrent=ITM430) [R, IBM Modeler] (3) A
 
 [ITM340 - Big Data and Web Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BybIVLI5L?&bcCurrent=ITM340) [R] (3) A+
 
@@ -96,13 +96,13 @@
 
 [ITM310 - Business Intelligence](https://www.boisestate.edu/registrar-catalog/#/courses/ryxskLU5U?bcCurrent=ITM310) (3) A+
 
-[ITM305 - Information Technology and Networking Essentials](https://www.boisestate.edu/registrar-catalog/#/courses/S12DfLU9L?&bcCurrent=ITM305) (3) A-
+[ITM305 - Information Tech and Networking Essentials](https://www.boisestate.edu/registrar-catalog/#/courses/S12DfLU9L?&bcCurrent=ITM305) [Visio] (3) A-
 
 [ITM225 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/rymez885U?bcCurrent=ITM225) [C#] (3) Audit
 
 [ITM106 - Database Topics](https://www.boisestate.edu/registrar-catalog/#/courses/rJeWjJ8IcI?bc=true&bcCurrent=ITM106) [SQL] (1) P
 
-[ITM105 - Spreadsheet Topics](https://www.boisestate.edu/registrar-catalog/#/courses/BJZj1UL5L?bcCurrent=ITM105) (1) P
+[ITM105 - Spreadsheet Topics](https://www.boisestate.edu/registrar-catalog/#/courses/BJZj1UL5L?bcCurrent=ITM105) [Excel] (1) P
 
 
 ## Accountancy (GPA: 3.95)
