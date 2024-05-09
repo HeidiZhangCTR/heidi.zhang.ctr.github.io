@@ -86,7 +86,7 @@
 
 [ITM430 - Predictive Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BJeUsX8LqU?bcCurrent=ITM430) [R, IBM Modeler] (3) A
 
-[ITM340 - Big Data and Web Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BybIVLI5L?&bcCurrent=ITM340) [R] (3) A+
+[ITM340 - Big Data and Web Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BybIVLI5L?&bcCurrent=ITM340) [R,Tableau] (3) A+
 
 [ITM325 - Web Application Development](https://www.boisestate.edu/registrar-catalog/#/courses/Sy4oW8I5U?bcCurrent=ITM325) [JS, HTML, CSS, SQL etc.] (3) A
 
@@ -94,7 +94,7 @@
 
 [ITM315 - Database Systems](https://www.boisestate.edu/registrar-catalog/#/courses/BklZokL85U?bcCurrent=ITM315) [SQL] (3) A
 
-[ITM310 - Business Intelligence](https://www.boisestate.edu/registrar-catalog/#/courses/ryxskLU5U?bcCurrent=ITM310) (3) A+
+[ITM310 - Business Intelligence](https://www.boisestate.edu/registrar-catalog/#/courses/ryxskLU5U?bcCurrent=ITM310) [Tableau] (3) A+
 
 [ITM305 - Information Tech and Networking Essentials](https://www.boisestate.edu/registrar-catalog/#/courses/S12DfLU9L?&bcCurrent=ITM305) [Visio] (3) A-
 
