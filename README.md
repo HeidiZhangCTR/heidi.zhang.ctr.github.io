@@ -18,8 +18,6 @@
 
 - [Business Analytics Certificate](https://www.boisestate.edu/cobe-itscm/certificate-in-business-analytics/)
 
-[Tianjin Foreign Studies University](https://www.tjfsu.edu.cn/)
-- [BA International Business](https://english.tjfsu.edu.cn/xygk/English.htm)
 
 
 # Courses Taken
