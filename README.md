@@ -109,7 +109,7 @@
 
 [ACCT405 - Financial Statement Auditing](https://www.boisestate.edu/registrar-catalog/#/courses/rJxhDJLU5U?bcCurrent=ACCT405) (3) A+
 
-[ACCT350 - Accounting Information Systems](https://www.boisestate.edu/registrar-catalog/#/courses/BJexu18UcU?bcCurrent=ACCT350) (3) A+
+[ACCT350 - Accounting Information Systems](https://www.boisestate.edu/registrar-catalog/#/courses/BJexu18UcU?bcCurrent=ACCT350) [Tableau] (3) A+
 
 [ACCT314 - Cost Accounting](https://www.boisestate.edu/registrar-catalog/#/courses/BkZ3PJU85U?bcCurrent=ACCT314) (3) A+
 
