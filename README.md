@@ -6,7 +6,9 @@
 
 [Boise State University](https://www.boisestate.edu/)
 
-- [Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
+- **[Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)**
+
+- **[Cryptology Security Analyst Graduate Certificate](https://www.boisestate.edu/math/security/)** (In Progress)
 
 - [BBA Information Technology Management](https://www.boisestate.edu/cobe-itscm/it-management/)
 
@@ -22,7 +24,11 @@
 
 # Courses Taken
 
-## Computer Science (GPA: 4.0)
+## Computer Science/Cybersecurity (GPA: 4.0)
+
+**[CORE512 - Introduction to Deep Learning in Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/B1bic-_Sv)** (Spring 2025)
+
+**[CORE511 - Artificial Intelligence and Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/Bk_y0xOrw)** (Fall 2024)
 
 **[CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500)** (3) A
 
@@ -34,9 +40,9 @@
 
 [CS408 - Full Stack Web Dev](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, ajax] (3) A
 
-**[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333)** (3) A
+[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333) (3) A
 
-**[CS331 - Computer Security and Info Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331)** [Python, Wireshark, VirtualBox] (3) A
+[CS331 - Computer Security and Info Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331) [Python, Wireshark, VirtualBox] (3) A
 
 [CS321 - Data Structures](https://www.boisestate.edu/registrar-catalog/#/courses/SJ0xQ8I98?bcCurrent=CS321) [Java] (3) A+
 
@@ -54,6 +60,9 @@
 
 
 ## Mathematics/Statistics (GPA: 4.0)
+**[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (Spring 2025)
+
+**[MATH508 - Foundations of Cryptographic Computing](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** (In Progress)
 
 [MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python, CoCalc] (3) A
 
@@ -80,7 +89,7 @@
 
 [ITM460 - Cloud Computing](https://www.boisestate.edu/registrar-catalog/#/courses/rk8UN8I98?bcCurrent=ITM460) [Python, AWS] (3) A
 
-**[ITM455 - Information Security](https://www.boisestate.edu/registrar-catalog/#/courses/HJuobL89L?bcCurrent=ITM455)** (3) A+
+[ITM455 - Information Security](https://www.boisestate.edu/registrar-catalog/#/courses/HJuobL89L?bcCurrent=ITM455) (3) A+
 
 [ITM430 - Predictive Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BJeUsX8LqU?bcCurrent=ITM430) [R, IBM Modeler] (3) A
 
