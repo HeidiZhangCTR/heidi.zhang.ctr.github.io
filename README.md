@@ -153,3 +153,5 @@
 [LinkedIn](https://www.linkedin.com/in/heidi-zhang-ctr)
 
 [The Source of My Success](https://www.churchofjesuschrist.org/?lang=eng)
+
+[Reading List](https://heidizhangctr.github.io/heidi.zhang.ctr.github.io/PAGE-ReadingList)
