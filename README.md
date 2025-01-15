@@ -64,7 +64,7 @@
 
 **[MATH508 - Foundations of Cryptographic Computing (Formerly *Advanced Asymmetric Cryptography and Cryptanalysis*)](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** [Python] (3) A+
 
-[MATH360 - Engineering Statistics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gzQxU85I?bc=true&bcCurrent=MATH360%20-%20Engineering%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) A In Progress
+[MATH360 - Engineering Statistics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gzQxU85I?bc=true&bcCurrent=MATH360%20-%20Engineering%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) In Progress
 
 [MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python, CoCalc] (3) A
 
