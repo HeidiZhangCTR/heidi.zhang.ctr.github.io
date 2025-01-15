@@ -6,9 +6,9 @@
 
 [Boise State University](https://www.boisestate.edu/)
 
-- **[Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)**
-
 - **[Cryptology Security Analyst Graduate Certificate](https://www.boisestate.edu/math/security/)** (In Progress)
+
+- **[Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)**
 
 - [BBA Information Technology Management](https://www.boisestate.edu/cobe-itscm/it-management/)
 
