@@ -26,9 +26,9 @@
 
 ## Computer Science/Cybersecurity (GPA: 4.0)
 
-**[CORE512 - Introduction to Deep Learning in Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/B1bic-_Sv)** (Spring 2025)
+**[CORE512 - Introduction to Deep Learning in Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/B1bic-_Sv)** [Python] (1) In Progress
 
-**[CORE511 - Artificial Intelligence and Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/Bk_y0xOrw)** (Fall 2024)
+**[CORE511 - Artificial Intelligence and Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/Bk_y0xOrw)** [Python] (1) A
 
 **[CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500)** (3) A
 
@@ -60,13 +60,17 @@
 
 
 ## Mathematics/Statistics (GPA: 4.0)
-**[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (Spring 2025)
+**[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
 
-**[MATH508 - Foundations of Cryptographic Computing](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** (In Progress)
+**[MATH508 - Foundations of Cryptographic Computing (Formerly *Advanced Asymmetric Cryptography and Cryptanalysis*)](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** [Python] (3) A+
+
+[MATH360 - Engineering Statistics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gzQxU85I?bc=true&bcCurrent=MATH360%20-%20Engineering%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) A In Progress
 
 [MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python, CoCalc] (3) A
 
 [MATH307 - Fundamentals of Security & Cryptography](https://www.boisestate.edu/registrar-catalog/#/courses/HkleaWLUqI?bcCurrent=MATH307) [Java, Cocalc] (3) A
+
+[MATH301 - Introduction to Linear Algebra](https://www.boisestate.edu/registrar-catalog/#/courses/rypGxUIcU?group=Mathematics%20(MATH)&bc=true&bcCurrent=MATH301%20-%20Introduction%20to%20Linear%20Algebra&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) In Progress
 
 [MATH265 - Intro to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265) [MathLab, Python] (3) A
 
@@ -92,6 +96,8 @@
 [ITM455 - Information Security](https://www.boisestate.edu/registrar-catalog/#/courses/HJuobL89L?bcCurrent=ITM455) (3) A+
 
 [ITM430 - Predictive Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BJeUsX8LqU?bcCurrent=ITM430) [R, IBM Modeler] (3) A
+
+[ITM370 - AI Augmented Projects](https://www.boisestate.edu/registrar-catalog/#/courses/H1qgXIIcU?bc=true&bcCurrent=ITM370%20-%20AI%20Augmented%20Projects&bcGroup=Information%20Technology%20Management%20(ITM)&bcItemType=courses) (3) In Progress 
 
 [ITM340 - Big Data and Web Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BybIVLI5L?&bcCurrent=ITM340) [R, Tableau] (3) A+
 
