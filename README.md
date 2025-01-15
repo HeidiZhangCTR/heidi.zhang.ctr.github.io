@@ -2,7 +2,7 @@
 
 ## Overall GPA: 3.99/4.0
 - **GPA for undergraduate-level courses (127 credits): 3.99**
-- **GPA for graduate-level courses (9 credits): 4.0**
+- **GPA for graduate-level courses (13 credits): 4.0**
 
 [Boise State University](https://www.boisestate.edu/)
 
