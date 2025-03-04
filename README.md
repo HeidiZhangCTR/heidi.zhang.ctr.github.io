@@ -26,9 +26,9 @@
 
 ## Computer Science/Cybersecurity (GPA: 4.0)
 
-**[CORE512 - Introduction to Deep Learning in Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/B1bic-_Sv)** [Python] (1) In Progress
+**[CORE512 - Introduction to Deep Learning in Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/B1bic-_Sv)** [Python, Anaconda] (1) A
 
-**[CORE511 - Artificial Intelligence and Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/Bk_y0xOrw)** [Python] (1) A
+**[CORE511 - Artificial Intelligence and Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/Bk_y0xOrw)** [Python, Anaconda] (1) A
 
 **[CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500)** (3) A
 
