@@ -1,8 +1,8 @@
 # Degrees (Majors, Minors) and Certificates
 
-## Overall GPA: 4.0/3.99
+## Overall GPA: **4.0**/3.99
 - **GPA for graduate-level courses (17 credits): 4.0**
-- **GPA for undergraduate-level courses (133 credits): 3.99**
+- GPA for undergraduate-level courses (133 credits): 3.99
 
 
 [Boise State University](https://www.boisestate.edu/)
@@ -98,7 +98,7 @@
 
 [ITM430 - Predictive Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BJeUsX8LqU?bcCurrent=ITM430) [R, IBM Modeler] (3) A
 
-[ITM370 - AI Augmented Projects](https://www.boisestate.edu/registrar-catalog/#/courses/H1qgXIIcU?bc=true&bcCurrent=ITM370%20-%20AI%20Augmented%20Projects&bcGroup=Information%20Technology%20Management%20(ITM)&bcItemType=courses) (3) In Progress 
+[ITM370 - AI Augmented Projects](https://www.boisestate.edu/registrar-catalog/#/courses/H1qgXIIcU?bc=true&bcCurrent=ITM370%20-%20AI%20Augmented%20Projects&bcGroup=Information%20Technology%20Management%20(ITM)&bcItemType=courses) (3) A+
 
 [ITM340 - Big Data and Web Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BybIVLI5L?&bcCurrent=ITM340) [R, Tableau] (3) A+
 
