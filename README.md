@@ -61,11 +61,11 @@
 
 
 ## Mathematics/Statistics (GPA: 4.0)
-**[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) A
+**[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** [Python] (3) A
 
 **[MATH508 - Foundations of Cryptographic Computing (Formerly *Advanced Asymmetric Cryptography and Cryptanalysis*)](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** [Python] (3) A+
 
-[MATH360 - Engineering Statistics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gzQxU85I?bc=true&bcCurrent=MATH360%20-%20Engineering%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) In Progress
+[MATH360 - Engineering Statistics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gzQxU85I?bc=true&bcCurrent=MATH360%20-%20Engineering%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) Audit
 
 [MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308) [Python, CoCalc] (3) A
 
