@@ -61,6 +61,7 @@
 
 
 ## Mathematics/Statistics (GPA: 4.0)
+**[MATH667 - Advances in Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1FtLFZ0U?bc=true&bcCurrent=MATH667%20-%20Advances%20in%20Applied%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
 **[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** [Python] (3) A
 
 **[MATH508 - Foundations of Cryptographic Computing (Formerly *Advanced Asymmetric Cryptography and Cryptanalysis*)](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** [Python] (3) A+
