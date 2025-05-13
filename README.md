@@ -1,8 +1,9 @@
 # Degrees (Majors, Minors) and Certificates
 
-## Overall GPA: 3.99/4.0
-- **GPA for undergraduate-level courses (127 credits): 3.99**
-- **GPA for graduate-level courses (14 credits): 4.0**
+## Overall GPA: 4.0/3.99
+- **GPA for graduate-level courses (17 credits): 4.0**
+- **GPA for undergraduate-level courses (133 credits): 3.99**
+
 
 [Boise State University](https://www.boisestate.edu/)
 
@@ -60,7 +61,7 @@
 
 
 ## Mathematics/Statistics (GPA: 4.0)
-**[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
+**[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) A
 
 **[MATH508 - Foundations of Cryptographic Computing (Formerly *Advanced Asymmetric Cryptography and Cryptanalysis*)](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** [Python] (3) A+
 
@@ -70,7 +71,7 @@
 
 [MATH307 - Fundamentals of Security & Cryptography](https://www.boisestate.edu/registrar-catalog/#/courses/HkleaWLUqI?bcCurrent=MATH307) [Java, Cocalc] (3) A
 
-[MATH301 - Introduction to Linear Algebra](https://www.boisestate.edu/registrar-catalog/#/courses/rypGxUIcU?group=Mathematics%20(MATH)&bc=true&bcCurrent=MATH301%20-%20Introduction%20to%20Linear%20Algebra&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) In Progress
+[MATH301 - Introduction to Linear Algebra](https://www.boisestate.edu/registrar-catalog/#/courses/rypGxUIcU?group=Mathematics%20(MATH)&bc=true&bcCurrent=MATH301%20-%20Introduction%20to%20Linear%20Algebra&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) A+
 
 [MATH265 - Intro to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265) [MathLab, Python] (3) A
 
