@@ -157,6 +157,14 @@
 [ECON201 - Principles of Macroeconomics](https://www.boisestate.edu/registrar-catalog/#/courses/BJlhy88cI?bcCurrent=ECON201) (3) A
 
 
+## Certifications
+[CompTIA Network+](https://www.credly.com/badges/b156709e-88a6-496b-a2ec-ca49db13d4d5)
+
+Certified Associate on Stellar Cyber for SOC Analysts
+
+Stellar Cyber Certified Associate
+
+
 ## Other Information
 
 [LinkedIn](https://www.linkedin.com/in/heidi-zhang-ctr)
