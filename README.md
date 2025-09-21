@@ -9,6 +9,8 @@
 
 - **[Cryptology Security Analyst Graduate Certificate](https://www.boisestate.edu/math/security/)** (In Progress)
 
+- **[Machine Learning Graduate Certificate](https://www.boisestate.edu/graduatecatalog/#/programs/r1lg7JcbCI?group=Computer%20Science&bc=true&bcCurrent=Graduate%20Certificate%20in%20Machine%20Learning&bcGroup=Computer%20Science&bcItemType=programs)** (In Progress)
+
 - **[Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)**
 
 - [BBA Information Technology Management](https://www.boisestate.edu/cobe-itscm/it-management/)
