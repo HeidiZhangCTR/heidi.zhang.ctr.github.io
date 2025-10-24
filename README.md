@@ -8,7 +8,7 @@
 [Boise State University](https://www.boisestate.edu/)
 
 - **[MS Computer Science](https://www.boisestate.edu/coen-cs/academics/masters-program/)** (In Progress)
-  * Emphases: Artificial Intelligence, Zero-Knowledge Proof (ZKP), Zero-Knowledge Machine Learning (ZKML), Cybersecurity
+  * Emphases: Artificial Intelligence, Zero-Knowledge Proof (ZKP), Zero-Knowledge Machine Learning (ZKML), Blockchain, Cybersecurity
 
 - **[Cryptology Security Analyst Graduate Certificate](https://www.boisestate.edu/math/security/)** (In Progress)
 
