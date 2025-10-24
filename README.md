@@ -8,6 +8,7 @@
 [Boise State University](https://www.boisestate.edu/)
 
 - **[MS Computer Science](https://www.boisestate.edu/coen-cs/academics/masters-program/)** (In Progress)
+  * Emphases: Artificial Intelligence, Zero-Knowledge Proof (ZKP), Zero-Knowledge Machine Learning (ZKML), Cybersecurity
 
 - **[Cryptology Security Analyst Graduate Certificate](https://www.boisestate.edu/math/security/)** (In Progress)
 
@@ -73,9 +74,9 @@
 ## Mathematics/Statistics (GPA: 4.0)
 **[MATH667 - Advances in Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1FtLFZ0U?bc=true&bcCurrent=MATH667%20-%20Advances%20in%20Applied%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
 
-**[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** [Python] (3) A
+**[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** [Python, ZKP] (3) A
 
-**[MATH508 - Foundations of Cryptographic Computing (Formerly: *Advanced Asymmetric Cryptography and Cryptanalysis*)](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** [Python] (3) A+
+**[MATH508 - Foundations of Cryptographic Computing (Formerly: *Advanced Asymmetric Cryptography and Cryptanalysis*)](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** [Python, ZKP] (3) A+
 
 [MATH360 - Engineering Statistics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gzQxU85I?bc=true&bcCurrent=MATH360%20-%20Engineering%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) Audit
 
