@@ -29,11 +29,11 @@
 
 ## Computer Science/Cybersecurity (GPA: 4.0)
 
-[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses) [Python] (3) (In Progress)
+**[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) (In Progress)
 
-[CS533 - Introduction to Data Science](https://www.boisestate.edu/graduatecatalog/#/courses/B1asIK-AI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS533%20-%20Introduction%20to%20Data%20Science&bcGroup=Computer%20Science%20(CS)&bcItemType=courses) [Python] (3) (In Progress)
+**[CS533 - Introduction to Data Science](https://www.boisestate.edu/graduatecatalog/#/courses/B1asIK-AI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS533%20-%20Introduction%20to%20Data%20Science&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) (In Progress)
 
-[CS507 - Computing Foundations](https://www.boisestate.edu/graduatecatalog/#/courses/B1hsIFZR8?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS507%20-%20Computing%20Foundations&bcGroup=Computer%20Science%20(CS)&bcItemType=courses) [Python] (3) (In Progress)
+**[CS507 - Computing Foundations](https://www.boisestate.edu/graduatecatalog/#/courses/B1hsIFZR8?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS507%20-%20Computing%20Foundations&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) (In Progress)
 
 **[CORE512 - Introduction to Deep Learning in Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/B1bic-_Sv)** [Python, Anaconda] (1) A
 
