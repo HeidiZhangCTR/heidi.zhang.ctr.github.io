@@ -29,6 +29,12 @@
 
 ## Computer Science/Cybersecurity (GPA: 4.0)
 
+[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses) [Python] (3) (In Progress)
+
+[CS533 - Introduction to Data Science](https://www.boisestate.edu/graduatecatalog/#/courses/B1asIK-AI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS533%20-%20Introduction%20to%20Data%20Science&bcGroup=Computer%20Science%20(CS)&bcItemType=courses) [Python] (3) (In Progress)
+
+[CS507 - Computing Foundations](https://www.boisestate.edu/graduatecatalog/#/courses/B1hsIFZR8?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS507%20-%20Computing%20Foundations&bcGroup=Computer%20Science%20(CS)&bcItemType=courses) [Python] (3) (In Progress)
+
 **[CORE512 - Introduction to Deep Learning in Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/B1bic-_Sv)** [Python, Anaconda] (1) A
 
 **[CORE511 - Artificial Intelligence and Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/Bk_y0xOrw)** [Python, Anaconda] (1) A
@@ -76,6 +82,8 @@
 [MATH307 - Fundamentals of Security & Cryptography](https://www.boisestate.edu/registrar-catalog/#/courses/HkleaWLUqI?bcCurrent=MATH307) [Java, Cocalc] (3) A
 
 [MATH301 - Introduction to Linear Algebra](https://www.boisestate.edu/registrar-catalog/#/courses/rypGxUIcU?group=Mathematics%20(MATH)&bc=true&bcCurrent=MATH301%20-%20Introduction%20to%20Linear%20Algebra&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) A+
+
+[MATH287 - Mathematical Proofs and Methods](https://www.boisestate.edu/registrar-catalog/#/courses/SJlPym8U9I?bc=true&bcCurrent=MATH287%20-%20Mathematical%20Proofs%20and%20Methods&bcGroup=Mathematics%20(MATH)&bcItemType=courses) [LaTeX] (3) (In Progress)
 
 [MATH265 - Intro to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265) [MathLab, Python] (3) A
 
