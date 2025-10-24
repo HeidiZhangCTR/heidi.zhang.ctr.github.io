@@ -7,6 +7,8 @@
 
 [Boise State University](https://www.boisestate.edu/)
 
+- **[MS Computer Science](https://www.boisestate.edu/coen-cs/academics/masters-program/)** (In Progress)
+
 - **[Cryptology Security Analyst Graduate Certificate](https://www.boisestate.edu/math/security/)** (In Progress)
 
 - **[Machine Learning Graduate Certificate](https://www.boisestate.edu/graduatecatalog/#/programs/r1lg7JcbCI?group=Computer%20Science&bc=true&bcCurrent=Graduate%20Certificate%20in%20Machine%20Learning&bcGroup=Computer%20Science&bcItemType=programs)** (In Progress)
