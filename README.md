@@ -1,7 +1,7 @@
 # Degrees (Majors, Minors) and Certificates
 
 ## Overall GPA: **4.0**/3.99
-- **GPA for graduate-level courses (17 credits): 4.0**
+- **GPA for graduate-level courses (26 credits): 4.0**
 - GPA for undergraduate-level courses (133 credits): 3.99
 
 
