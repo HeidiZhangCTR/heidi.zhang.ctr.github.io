@@ -86,7 +86,7 @@
 
 [MATH301 - Introduction to Linear Algebra](https://www.boisestate.edu/registrar-catalog/#/courses/rypGxUIcU?group=Mathematics%20(MATH)&bc=true&bcCurrent=MATH301%20-%20Introduction%20to%20Linear%20Algebra&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) A+
 
-[MATH287 - Mathematical Proofs and Methods](https://www.boisestate.edu/registrar-catalog/#/courses/SJlPym8U9I?bc=true&bcCurrent=MATH287%20-%20Mathematical%20Proofs%20and%20Methods&bcGroup=Mathematics%20(MATH)&bcItemType=courses) [LaTeX] (3) AUDIT
+[MATH287 - Mathematical Proofs and Methods](https://www.boisestate.edu/registrar-catalog/#/courses/SJlPym8U9I?bc=true&bcCurrent=MATH287%20-%20Mathematical%20Proofs%20and%20Methods&bcGroup=Mathematics%20(MATH)&bcItemType=courses) [LaTeX] (3) Audit
 
 [MATH265 - Intro to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265) [MathLab, Python] (3) A
 
