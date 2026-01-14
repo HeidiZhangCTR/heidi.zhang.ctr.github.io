@@ -34,13 +34,13 @@
 
 **[CS597 - Generative AI Application Development]** [Python] (3) In Progress
 
-**[CS534 - Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/HkRsLFWRI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS534%20-%20Machine%20Learning&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) In Progress
-
-**[CS510 - Databases](https://www.boisestate.edu/graduatecatalog/#/courses/HJhiLK-08?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS510%20-%20Databases&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) In Progress
-
 **[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A+
 
+**[CS534 - Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/HkRsLFWRI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS534%20-%20Machine%20Learning&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) In Progress
+
 **[CS533 - Introduction to Data Science](https://www.boisestate.edu/graduatecatalog/#/courses/B1asIK-AI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS533%20-%20Introduction%20to%20Data%20Science&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A+
+
+**[CS510 - Databases](https://www.boisestate.edu/graduatecatalog/#/courses/HJhiLK-08?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS510%20-%20Databases&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) In Progress
 
 **[CS507 - Computing Foundations](https://www.boisestate.edu/graduatecatalog/#/courses/B1hsIFZR8?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS507%20-%20Computing%20Foundations&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A
 
