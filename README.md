@@ -34,7 +34,7 @@
 
 **[CS597 - Generative AI Application Development]** [Ollama, Langchain, Python] (3) In Progress
 
-**[CS596 - Independent Study: Foundational Blockchain Technologies and Their Role in On-Chain Zero-Knowledge Machine Learning (zkML)](https://www.boisestate.edu/graduatecatalog/#/courses/rkzgn8K-0I?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS596%20-%20Independent%20Study&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Blockchain, smart contract, zero-knowledge proof, Solidity, Python] (3) In Progress
+**[CS596 - Independent Study: Foundational Blockchain Technologies and Their Role in On-Chain Zero-Knowledge Machine Learning (zkML)](https://www.boisestate.edu/graduatecatalog/#/courses/rkzgn8K-0I?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS596%20-%20Independent%20Study&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, ML, Blockchain, smart contract, Ethereum, Solidity] (3) In Progress
 
 **[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A+
 
