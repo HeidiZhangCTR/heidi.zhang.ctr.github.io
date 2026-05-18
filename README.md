@@ -94,7 +94,7 @@
 
 **[MATH572 - Computational Statistics](https://www.boisestate.edu/graduatecatalog/#/courses/ry7oyvtbCI?bc=true&bcCurrent=MATH572%20-%20Computational%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Spring 2027
 
-**[MATH562 - Probability and Statistics](https://www.boisestate.edu/graduatecatalog/#/courses/rJXiJvt-RL?bc=true&bcCurrent=MATH562%20-%20Probability%20and%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Fall 2026
+**[MATH562 - Probability and Statistics II](https://www.boisestate.edu/graduatecatalog/#/courses/rJXiJvt-RL?bc=true&bcCurrent=MATH562%20-%20Probability%20and%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Fall 2026
 
 **[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** [Python, ZKP] (3) A
 
