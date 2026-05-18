@@ -38,9 +38,9 @@
 
 **[CS596 - Independent Study: Foundational Blockchain Technologies and Their Role in On-Chain Zero-Knowledge Machine Learning (zkML)](https://www.boisestate.edu/graduatecatalog/#/courses/rkzgn8K-0I?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS596%20-%20Independent%20Study&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, ML, EZKL, Blockchain, Smart Contract, Ethereum, Solidity] (3) P
 
-**[CS591 - Project](https://www.boisestate.edu/graduatecatalog/#/courses/Hklx2IFWRU?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS591%20-%20Project&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Spring 2027
+**[CS591 - MS Culminating Project](https://www.boisestate.edu/graduatecatalog/#/courses/Hklx2IFWRU?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS591%20-%20Project&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Spring 2027
 
-**[CS591 - Project](https://www.boisestate.edu/graduatecatalog/#/courses/Hklx2IFWRU?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS591%20-%20Project&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Fall 2026
+**[CS591 - MS Culminating Project](https://www.boisestate.edu/graduatecatalog/#/courses/Hklx2IFWRU?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS591%20-%20Project&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Fall 2026
 
 **[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, EZKL, CLI, Python] (3) A+
 
