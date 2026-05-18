@@ -32,15 +32,27 @@
 
 ## Computer Science/Cybersecurity (GPA: 4.0)
 
-**[CS597 - Generative AI Application Development](https://www.coursicle.com/boisestate/courses/CS/597/)** [LangGraph, LangChain, Ollama, Hardhat, Sepolia, Python] (3) A+
+**[CS597 - Special Topics: Deep Learning](https://www.coursicle.com/boisestate/courses/CS/597/)** (3) Spring 2027
+
+**[CS597 - Special Topics: Generative AI Application Development](https://www.coursicle.com/boisestate/courses/CS/597/)** [LangGraph, LangChain, Ollama, Hardhat, Sepolia, Python] (3) A+
 
 **[CS596 - Independent Study: Foundational Blockchain Technologies and Their Role in On-Chain Zero-Knowledge Machine Learning (zkML)](https://www.boisestate.edu/graduatecatalog/#/courses/rkzgn8K-0I?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS596%20-%20Independent%20Study&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, ML, EZKL, Blockchain, Smart Contract, Ethereum, Solidity] (3) P
 
+**[CS591 - Project](https://www.boisestate.edu/graduatecatalog/#/courses/Hklx2IFWRU?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS591%20-%20Project&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Spring 2027
+
+**[CS591 - Project](https://www.boisestate.edu/graduatecatalog/#/courses/Hklx2IFWRU?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS591%20-%20Project&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Fall 2026
+
 **[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, EZKL, CLI, Python] (3) A+
+
+**[CS540 - Artificial Intelligence for Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJP2XeUJ0?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS540%20-%20Artificial%20Intelligence%20for%20Cybersecurity&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) TBD Fall 2026
+
+**[CS535 - Large-Scale Data Analysis](https://www.boisestate.edu/graduatecatalog/#/courses/SJxRiIF-C8?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS535%20-%20Large-Scale%20Data%20Analysis&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) TBD Fall 2026
 
 **[CS534 - Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/HkRsLFWRI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS534%20-%20Machine%20Learning&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A+
 
 **[CS533 - Introduction to Data Science](https://www.boisestate.edu/graduatecatalog/#/courses/B1asIK-AI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS533%20-%20Introduction%20to%20Data%20Science&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A+
+
+**[CS521 - Design and Analysis of Algorithms](https://www.boisestate.edu/graduatecatalog/#/courses/SkTsUYWAI?bc=true&bcCurrent=CS521%20-%20Design%20and%20Analysis%20of%20Algorithms&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Fall 2026
 
 **[CS507 - Computing Foundations](https://www.boisestate.edu/graduatecatalog/#/courses/B1hsIFZR8?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS507%20-%20Computing%20Foundations&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A
 
@@ -80,9 +92,15 @@
 ## Mathematics/Statistics (GPA: 4.0)
 **[MATH667 - Advances in Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1FtLFZ0U?bc=true&bcCurrent=MATH667%20-%20Advances%20in%20Applied%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
 
+**[MATH572 - Computational Statistics](https://www.boisestate.edu/graduatecatalog/#/courses/ry7oyvtbCI?bc=true&bcCurrent=MATH572%20-%20Computational%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Spring 2027
+
+**[MATH562 - Probability and Statistics](https://www.boisestate.edu/graduatecatalog/#/courses/rJXiJvt-RL?bc=true&bcCurrent=MATH562%20-%20Probability%20and%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Fall 2026
+
 **[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** [Python, ZKP] (3) A
 
 **[MATH508 - Foundations of Cryptographic Computing (Formerly: *Advanced Asymmetric Cryptography and Cryptanalysis*)](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** [Python, ZKP] (3) A+
+
+[MATH361 - Probability and Statistics I](https://www.boisestate.edu/registrar-catalog/#/courses/H1efXl8L5L?bc=true&bcCurrent=MATH361%20-%20Probability%20and%20Statistics%20I&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) In Progress
 
 [MATH360 - Engineering Statistics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gzQxU85I?bc=true&bcCurrent=MATH360%20-%20Engineering%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) Audit
 
