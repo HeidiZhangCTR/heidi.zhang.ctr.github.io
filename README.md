@@ -32,7 +32,7 @@
 
 ## Computer Science/Cybersecurity (GPA: 4.0)
 
-**[CS597 - Special Topics: Deep Learning](https://www.coursicle.com/boisestate/courses/CS/597/)** (3) Spring 2027
+**[CS532 - Deep Learning](https://www.boisestate.edu/graduatecatalog/#/courses/By4lzXnAkl?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS532%20-%20Deep%20Learning&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Spring 2027
 
 **[CS597 - Special Topics: Generative AI Application Development](https://www.coursicle.com/boisestate/courses/CS/597/)** [LangGraph, LangChain, Ollama, Hardhat, Sepolia, Python] (3) A+
 
