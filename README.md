@@ -32,8 +32,6 @@
 
 ## Computer Science/Cybersecurity (GPA: 4.0)
 
-**[CS532 - Deep Learning](https://www.boisestate.edu/graduatecatalog/#/courses/By4lzXnAkl?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS532%20-%20Deep%20Learning&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Spring 2027
-
 **[CS597 - Special Topics: Generative AI Application Development](https://www.coursicle.com/boisestate/courses/CS/597/)** [LangGraph, LangChain, Ollama, Hardhat, Sepolia, Python] (3) A+
 
 **[CS596 - Independent Study: Foundational Blockchain Technologies and Their Role in On-Chain Zero-Knowledge Machine Learning (zkML)](https://www.boisestate.edu/graduatecatalog/#/courses/rkzgn8K-0I?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS596%20-%20Independent%20Study&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, ML, EZKL, Blockchain, Smart Contract, Ethereum, Solidity] (3) P
@@ -53,6 +51,8 @@
 **[CS534 - Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/HkRsLFWRI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS534%20-%20Machine%20Learning&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A+
 
 **[CS533 - Introduction to Data Science](https://www.boisestate.edu/graduatecatalog/#/courses/B1asIK-AI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS533%20-%20Introduction%20to%20Data%20Science&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A+
+
+**[CS532 - Deep Learning](https://www.boisestate.edu/graduatecatalog/#/courses/By4lzXnAkl?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS532%20-%20Deep%20Learning&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Spring 2027
 
 **[CS521 - Design and Analysis of Algorithms](https://www.boisestate.edu/graduatecatalog/#/courses/SkTsUYWAI?bc=true&bcCurrent=CS521%20-%20Design%20and%20Analysis%20of%20Algorithms&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Fall 2026
 
