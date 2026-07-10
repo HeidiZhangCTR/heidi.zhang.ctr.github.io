@@ -102,7 +102,7 @@
 
 **[MATH508 - Foundations of Cryptographic Computing (Formerly: *Advanced Asymmetric Cryptography and Cryptanalysis*)](https://www.boisestate.edu/graduatecatalog/#/courses/BkskwYb0I)** [Python, ZKP] (3) A+
 
-[MATH361 - Probability and Statistics I](https://www.boisestate.edu/registrar-catalog/#/courses/H1efXl8L5L?bc=true&bcCurrent=MATH361%20-%20Probability%20and%20Statistics%20I&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) In Progress
+[MATH361 - Probability and Statistics I](https://www.boisestate.edu/registrar-catalog/#/courses/H1efXl8L5L?bc=true&bcCurrent=MATH361%20-%20Probability%20and%20Statistics%20I&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) A+
 
 [MATH360 - Engineering Statistics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gzQxU85I?bc=true&bcCurrent=MATH360%20-%20Engineering%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses) (3) Audit
 
