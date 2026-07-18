@@ -1,8 +1,8 @@
 # Degrees (Majors, Minors) and Certificates
 
 ## Overall GPA: **4.0**/3.99
-- **GPA for graduate-level courses (26 credits): 4.0**
-- GPA for undergraduate-level courses (133 credits): 3.99
+- **GPA for graduate-level courses (35 credits): 4.0**
+- GPA for undergraduate-level courses (142 credits): 3.99
 
 
 [Boise State University](https://www.boisestate.edu/)
@@ -30,7 +30,9 @@
 
 # Courses Taken
 
-## Computer Science/Cybersecurity (GPA: 4.0)
+## Computer Science/Cybersecurity
+- **GPA for graduate-level courses (23 credits): 4.0**
+- GPA for undergraduate-level courses (32 credits): 4.0
 
 **[CS597 - Special Topics: Generative AI Application Development](https://www.coursicle.com/boisestate/courses/CS/597/)** [LangGraph, LangChain, Ollama, Hardhat, Sepolia, Python] (3) A+
 
@@ -91,7 +93,10 @@
 [CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111) [Python] (3) A
 
 
-## Mathematics/Statistics (GPA: 4.0)
+## Mathematics/Statistics
+- **GPA for graduate-level courses (6 credits): 4.0**
+- GPA for undergraduate-level courses (32 credits): 4.0
+
 **[MATH667 - Advances in Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1FtLFZ0U?bc=true&bcCurrent=MATH667%20-%20Advances%20in%20Applied%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
 
 **[MATH572 - Computational Statistics](https://www.boisestate.edu/graduatecatalog/#/courses/ry7oyvtbCI?bc=true&bcCurrent=MATH572%20-%20Computational%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Spring 2027
@@ -129,7 +134,9 @@
 [BUSSTAT207 - Introduction to Business Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/ByZBjyLUc8?bcCurrent=BUSSTAT207) (3) A+
 
 
-## Information Technology Management (GPA: 3.98)
+## Information Technology Management
+- **GPA for graduate-level courses (6 credits): 4.0**
+- GPA for undergraduate-level courses (33 credits): 3.97
 
 **[ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557)** (3) A
 
@@ -159,10 +166,11 @@
 
 [ITM106 - Database Topics](https://www.boisestate.edu/registrar-catalog/#/courses/rJeWjJ8IcI?bc=true&bcCurrent=ITM106) [SQL] (1) P
 
-[ITM105 - Spreadsheet Topics](https://www.boisestate.edu/registrar-catalog/#/courses/BJZj1UL5L?bcCurrent=ITM105) [Excel] (1) P
+[ITM105 - Spreadsheet Topics](https://www.boisestate.edu/registrar-catalog/#/courses/BJZj1UL5L?bcCurrent=ITM105) [Excel] (2) P
 
 
-## Accountancy (GPA: 3.95)
+## Accountancy
+- GPA for undergraduate-level courses (21 credits): 3.96
 
 [ACCT410 - Advanced Accounting](https://www.boisestate.edu/registrar-catalog/#/courses/Ske3wk8U5I?bcCurrent=ACCT410) (3) A
 
@@ -180,6 +188,7 @@
 
 
 ## Business Related (GPA: 4.0)
+- GPA for undergraduate-level courses (24 credits): 4.0
 
 [BUS450 - Business Policies](https://www.boisestate.edu/registrar-catalog/#/courses/HkgisJULcI?bcCurrent=BUS450) (3) A+
 
