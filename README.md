@@ -12,7 +12,7 @@
 
 - **[Cryptology Security Analyst Graduate Certificate](https://www.boisestate.edu/math/security/)** (In Progress)
 
-- **[Data Science Graduate Certificate](https://www.boisestate.edu/computing/academics/certificates/data-science-certificate/)** (In Progress)
+- **[Machine Learning Graduate Certificate](https://www.boisestate.edu/graduatecatalog/#/programs/r1lg7JcbCI?group=Computer%20Science&bc=true&bcCurrent=Graduate%20Certificate%20in%20Machine%20Learning&bcGroup=Computer%20Science&bcItemType=programs)** (In Progress)
 
 - **[Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)**
 
@@ -44,9 +44,9 @@
 
 **[CS588 - MS Outcome Assessment](https://www.boisestate.edu/graduatecatalog/#/courses/view/63319548461da2c804e1510d)** (0) Spring 2027
 
-**[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, EZKL, CLI, Python] (3) A+
+**[CS567 - Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/SykhIKZAI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=Computer%20Science%20(CS)&bcItemType=courses&bc=true&bcCurrent=CS567%20-%20Applied%20Cryptography&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Fall 2026
 
-**[CS540 - Artificial Intelligence for Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJP2XeUJ0?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS540%20-%20Artificial%20Intelligence%20for%20Cybersecurity&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) TBD Fall 2026
+**[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, EZKL, CLI, Python] (3) A+
 
 **[CS535 - Large-Scale Data Analysis](https://www.boisestate.edu/graduatecatalog/#/courses/SJxRiIF-C8?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS535%20-%20Large-Scale%20Data%20Analysis&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) TBD Fall 2026
 
