@@ -12,8 +12,6 @@
 
 - **[Cryptology Security Analyst Graduate Certificate](https://www.boisestate.edu/math/security/)** (In Progress)
 
-- **[Machine Learning Graduate Certificate](https://www.boisestate.edu/graduatecatalog/#/programs/r1lg7JcbCI?group=Computer%20Science&bc=true&bcCurrent=Graduate%20Certificate%20in%20Machine%20Learning&bcGroup=Computer%20Science&bcItemType=programs)** (In Progress)
-
 - **[Cybersecurity Management Graduate Certificate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)**
 
 - [BBA Information Technology Management](https://www.boisestate.edu/cobe-itscm/it-management/)
@@ -46,9 +44,9 @@
 
 **[CS567 - Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/SykhIKZAI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=Computer%20Science%20(CS)&bcItemType=courses&bc=true&bcCurrent=CS567%20-%20Applied%20Cryptography&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Fall 2026
 
-**[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, EZKL, CLI, Python] (3) A+
+**[CS561 - Theory of Computation](https://www.boisestate.edu/graduatecatalog/#/courses/BJlJnIYbRU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS561%20-%20Theory%20of%20Computation&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) Spring 2027
 
-**[CS535 - Large-Scale Data Analysis](https://www.boisestate.edu/graduatecatalog/#/courses/SJxRiIF-C8?expanded=Mathematics%20(MATH)&group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS535%20-%20Large-Scale%20Data%20Analysis&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** (3) TBD Fall 2026
+**[CS557 - Artificial Intelligence](https://www.boisestate.edu/graduatecatalog/#/courses/B1l12IY-RU?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS557%20-%20Artificial%20Intelligence&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [ZKP, EZKL, CLI, Python] (3) A+
 
 **[CS534 - Machine Learning](https://www.boisestate.edu/graduatecatalog/#/courses/HkRsLFWRI?group=Computer%20Science%20(CS)&bc=true&bcCurrent=CS534%20-%20Machine%20Learning&bcGroup=Computer%20Science%20(CS)&bcItemType=courses)** [Python] (3) A+
 
@@ -97,11 +95,7 @@
 - **GPA for graduate-level courses (6 credits): 4.0**
 - GPA for undergraduate-level courses (32 credits): 4.0
 
-**[MATH667 - Advances in Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1FtLFZ0U?bc=true&bcCurrent=MATH667%20-%20Advances%20in%20Applied%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
-
-**[MATH572 - Computational Statistics](https://www.boisestate.edu/graduatecatalog/#/courses/ry7oyvtbCI?bc=true&bcCurrent=MATH572%20-%20Computational%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Spring 2027
-
-**[MATH562 - Probability and Statistics II](https://www.boisestate.edu/graduatecatalog/#/courses/rJXiJvt-RL?bc=true&bcCurrent=MATH562%20-%20Probability%20and%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Fall 2026
+**[MATH667 - Advances in Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1FtLFZ0U?bc=true&bcCurrent=MATH667%20-%20Advances%20in%20Applied%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Spring 2027
 
 **[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** [Python, ZKP] (3) A
 
