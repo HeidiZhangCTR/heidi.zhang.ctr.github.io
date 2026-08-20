@@ -72,6 +72,8 @@
 
 [CS408 - Full Stack Web Dev](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408) [HTML, CSS,  PHP, SQL, JS, jQuery, ajax] (3) A
 
+[CS334 - Algorithms of Machine Learning](https://www.boisestate.edu/registrar-catalog/#/courses/SkeRE488cL?bc=true&bcCurrent=CS334%20-%20Algorithms%20of%20Machine%20Learning&bcGroup=Computer%20Science%20(CS)&bcItemType=courses) (3) In Progress
+
 [CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333) (3) A
 
 [CS331 - Computer Security and Info Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331) [Python, Wireshark, VirtualBox] (3) A
@@ -96,6 +98,8 @@
 - GPA for undergraduate-level courses (32 credits): 4.0
 
 **[MATH667 - Advances in Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1FtLFZ0U?bc=true&bcCurrent=MATH667%20-%20Advances%20in%20Applied%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Spring 2027
+
+**[MATH562 - Probability and Statistics](https://www.boisestate.edu/graduatecatalog/#/courses/rJXiJvt-RL?bc=true&bcCurrent=MATH562%20-%20Probability%20and%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
 
 **[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** [Python, ZKP] (3) A
 
