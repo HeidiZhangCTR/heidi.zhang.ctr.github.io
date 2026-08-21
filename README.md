@@ -99,7 +99,7 @@
 
 **[MATH667 - Advances in Applied Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1FtLFZ0U?bc=true&bcCurrent=MATH667%20-%20Advances%20in%20Applied%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) Spring 2027
 
-**[MATH562 - Probability and Statistics](https://www.boisestate.edu/graduatecatalog/#/courses/rJXiJvt-RL?bc=true&bcCurrent=MATH562%20-%20Probability%20and%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
+**[MATH562 - Probability and Statistics II](https://www.boisestate.edu/graduatecatalog/#/courses/rJXiJvt-RL?bc=true&bcCurrent=MATH562%20-%20Probability%20and%20Statistics&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** (3) In Progress
 
 **[MATH510 - Quantum and Post Quantum Cryptography](https://www.boisestate.edu/graduatecatalog/#/courses/S1Q2FB2Ew?bc=true&bcCurrent=MATH510%20-%20Quantum%20and%20Post%20Quantum%20Cryptography&bcGroup=Mathematics%20(MATH)&bcItemType=courses)** [Python, ZKP] (3) A
 
